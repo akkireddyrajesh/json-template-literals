@@ -1,6 +1,6 @@
 {
     "name": "json-template-literals",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "description": "this is for creating json with variable data inserting into that like js templating.",
     "main": "index.js",
     "scripts": {
@@ -8,6 +8,7 @@
     },
     "keywords": [
         "json-template-literals",
+        "jtl",
         "djson",
         "dynamic JSON",
         "dynamic JSON creator"

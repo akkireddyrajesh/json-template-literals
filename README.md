@@ -4,11 +4,11 @@
 
 ## Installation
 
-    npm install djson --save
+    npm install json-template-literals --save
 
 ## Usage
 ```js
-var logger = require('djson');
+var jtl = require('json-template-literals');
 
 
 ```    
